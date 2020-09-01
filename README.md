@@ -1,2 +1,2 @@
 # springcomes
-A personal made Galgame 一个自己正在开发的Gal
+A personal made Galgame in Chinese, with general world view.
